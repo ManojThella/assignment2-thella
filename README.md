@@ -19,3 +19,5 @@
 Other players that would be good to watch play.
 * Gagan Kumar
 * Nihal Jadav
+
+[My personal information](AboutMe.md)
