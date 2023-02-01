@@ -13,3 +13,13 @@ Following the countries which I like to visit to have some good time.
 |Switerland| It has ski resorts during the winter, it is beautiful all year|20|
 |Greenland|It has Northern lights|15|
 |Africa|It has Mount Kilimanjaro, Victoria Falls, Nile river, and game reserves such as the Maasai Mara and Serengeti|40|
+
+---
+
+## Pithy Quotes
+
+>Truth hurts. Maybe not as much as jumping on a bicycle with a seat missing, but it hurts.
+>> Author -*Lt. Frank Drebinr*
+
+>Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.
+>> Author -*Will Ferrell*
