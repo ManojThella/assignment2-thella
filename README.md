@@ -20,4 +20,4 @@ Other players that would be good to watch play.
 * Gagan Kumar
 * Nihal Jadav
 
-[My personal information](https://github.com/ManojThella/assignment2-thella/blob/e497d56c914c4bf94fbc7afa3c4a27d15cb85535/AboutMe.md)
+[My personal information](AboutMe.md)
