@@ -23,3 +23,21 @@ Following the countries which I like to visit to have some good time.
 
 >Before you marry a person, you should first make them use a computer with slow Internet to see who they really are.
 >> Author -*Will Ferrell*
+
+---
+
+# Code Fencing
+
+> GZIP Compression through .htaccess
+
+stack overflow link <https://stackoverflow.com/questions/40647489/gzip-compression-through-htaccess>
+
+```
+# BEGIN GZIP
+<ifmodule mod_deflate.c>
+AddOutputFilterByType DEFLATE text/text text/html text/plain text/xml text/css application/x-javascript application/javascript
+</ifmodule>
+# END GZIP
+```
+
+css tricks link <https://css-tricks.com/snippets/htaccess/active-gzip-compression/>
